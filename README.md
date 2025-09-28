@@ -2,10 +2,18 @@
 DXF files for a Lenovo Legion Go stand where the lower USB cable still can connect
 
 # what
-A diy stand (wooden) for Lenovo Legion Go (black) with USB-C cable (blue) attached to lower port:
+A diy stand (wooden) for Lenovo Legion Go (black) with USB-C cable (blue) attached to lower port.
+
+## the stand
 ![stand](img/stand.JPG)
-![stand](img/3d.JPG)
+
+## 3d view
+![stand](img/3d.png)
+
+## side view
 ![stand](img/side.JPG)
+
+## front view
 ![stand](img/front.JPG)
 
 # why
